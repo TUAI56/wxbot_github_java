@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/botjavademo/botjavademo.iml" filepath="$PROJECT_DIR$/botjavademo/botjavademo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sroucewechaty/wechaty/wechaty.iml" filepath="$PROJECT_DIR$/sroucewechaty/wechaty/wechaty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sroucewechaty/examples/wechaty-example.iml" filepath="$PROJECT_DIR$/sroucewechaty/examples/wechaty-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sroucewechaty/wechaty-parent.iml" filepath="$PROJECT_DIR$/sroucewechaty/wechaty-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sroucewechaty/wechaty-puppet/wechaty-puppet.iml" filepath="$PROJECT_DIR$/sroucewechaty/wechaty-puppet/wechaty-puppet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sroucewechaty/wechaty-puppet-hostie/wechaty-puppet-hostie.iml" filepath="$PROJECT_DIR$/sroucewechaty/wechaty-puppet-hostie/wechaty-puppet-hostie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sroucewechaty/wechaty-puppet-mock/wechaty-puppet-mock.iml" filepath="$PROJECT_DIR$/sroucewechaty/wechaty-puppet-mock/wechaty-puppet-mock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/wxbot.iml" filepath="$PROJECT_DIR$/.idea/wxbot.iml" />
+    </modules>
+  </component>
+</project>

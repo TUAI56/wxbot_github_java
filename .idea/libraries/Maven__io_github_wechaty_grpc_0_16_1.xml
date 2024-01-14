@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.github.wechaty:grpc:0.16.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../WECHAT_LIB/io/github/wechaty/grpc/0.16.1/grpc-0.16.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../WECHAT_LIB/io/github/wechaty/grpc/0.16.1/grpc-0.16.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../WECHAT_LIB/io/github/wechaty/grpc/0.16.1/grpc-0.16.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

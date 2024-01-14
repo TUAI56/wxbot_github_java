@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="wechaty-puppet" />
+        <module name="wechaty" />
+        <module name="wechaty-puppet-hostie" />
+        <module name="botjavademo" />
+        <module name="wechaty-puppet-mock" />
+        <module name="wechaty-example" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="botjavademo" target="1.5" />
+      <module name="wechaty" target="1.8" />
+      <module name="wechaty-example" target="1.8" />
+      <module name="wechaty-parent" target="1.5" />
+      <module name="wechaty-puppet" target="1.8" />
+      <module name="wechaty-puppet-hostie" target="1.8" />
+      <module name="wechaty-puppet-mock" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
